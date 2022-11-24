@@ -1,0 +1,24 @@
+{
+	"name": "com.studio23.testpackage",
+	"displayName": "Some Package Name",
+	"description": "Some package description",
+	"keywords": [
+		"PackageKeywords",
+		"Unity",
+		"Tool",
+		"Scripts"
+	],
+	"unity": "2020.3.40",
+	"version": "1.0.0",
+	"author":{
+		"name": "Studio 23 Dev",
+		"email": "studio23-support email",
+		"url": "studio-23.xyz"
+	},
+	"dependencies":{
+		
+	},
+	"publishConfig":{
+		"registry": "http://localhost:4873"
+	}
+}
